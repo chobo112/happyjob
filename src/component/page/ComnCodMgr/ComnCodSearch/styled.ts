@@ -1,7 +1,10 @@
 import styled from "styled-components";
 
-export const NoticeSearchStyled = styled.div`
-  input {
+export const ComnCodSearchStyle = styled.div`
+  float: right;
+  padding-top: 30px;
+  input,
+  select {
     padding: 8px;
     margin-top: 5px;
     margin-bottom: 5px;
